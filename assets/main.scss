@@ -3,3 +3,19 @@
 ---
 
 @import 'modern-resume-theme';
+
+.content {
+  border-left: dashed 2px #CCCCCC;
+
+  p:last-child {
+    margin: 0;
+  }
+}
+
+.layout {
+  margin-top: 4rem;
+}
+
+p.quote {
+  padding-top: 0;
+}

@@ -98,9 +98,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Software Development Manager, Structured Products
         caption: Sep 2018 - Present
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Designing, developing and delivering the next-gen high performance OMS for HSBC's structured products line of offerings using proprietary as well as open-source software.
+        description: | # this will include new lines to allow paragraphs
+          A challenging yet fruitful experience with the EQD division of GB&M where I worked on an OMS for structured products. The system uses Scala on the backend and React on the frontend. One of the highlights of this system is an in-house developed canvas implementation of a full-fledged grid system capable of rendering hundreds of thousands of rows of data with lightning fast speed thanks to immediate mode rendering. When I arrived, the team was struggling to find a solution for users to be able to open email clients with dynamically added attachments. Since the application is electron based, I was able to think out of the box and add a feature that allows the user to open Outlook client with Termsheets attached right from an RFQ within the application. I worked on various other features that contributed towards a successful launch of the product later on.
+
+          Technologies involved: Nodejs / React / Jest / ES6 / Typescript / Electron / Scala / Webpack / VS Code / Intellij IDEA / SASS / Stylus / WebSocket / Jenkins / Maven / Springboot / Stash / Jira / Confluence / Git / Bash / VIM
 
       - layout: left
         title: HSBC
@@ -108,9 +111,24 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Development Specialist, FX
         caption: May 2016 - Oct 2017
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Implementation and support of the FX trading frontend utilizing the then cutting-edge technologies.
+        description: | # this will include new lines to allow paragraphs
+          I joined Cash FX division of HSBC Global Banking and Markets line of business in May 2016. Since then I've worked on a number of projects and innovations. I've also acquired the knowledge and skills required to serve as a competent developer of Cash FX trading systems that support Spot, Forward, Swap, NDF, NDS products.
+
+          Projects:
+          - Reason Code
+          - Credit on Tiles
+          - Execution App
+          - Ironman
+          - FXConnect
+
+          Innovations:
+          - Antman - A web-based zoomable treemap of all service instances running within our infrastructure. This tool is quite versatile. For example, it provides also a grid (table) view of the instances, and connects to source control APIs to retrieve collaborator info of specific services, as well as to Jira APIs to submit and retrieve service-related issues. It runs real-time, reflecting instance statuses as they go up or down.
+          - Grasshopper - A web-based SSH client that's capable of connecting users to specific hosts programatically, which enables it to work very well with the first tool. Users will basically be able to click on a button in Antman, and get into an ssh cli in the browser and land in the directory of the exact service he was inspecting in Antman, eliminating the need to open Putty or mRemote.
+          - Documentary - An API documentation aggregation server which exposes a web interface where a list of the aggregated documentations are displayed. Clicking one of the items opens up swagger UI in an iframe beneath the list that displays an interactive API documentation of that item (service).
+
+          Technologies involved: Nodejs / CoffeeScript / Java / Git / Gulp / Angularjs / Karma / Protractor / TeamCity / Stash / Jira / Confluence / RxJS / Cygwin / VIM / AppRunner / Intellij IDEA / Maven
 
       - layout: left
         title: Compare Global Group
@@ -118,9 +136,26 @@ content:
         # link_text: boringcompany.com
         sub_title: Lead Developer / CTO
         caption: Sep 2015 - Apr 2016
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Leading a team of developers working on CGG's financial / subcription product comparison line of business, helping consumers get the most of what's on offer by the banks / insurance firms / ISPs, etc.
+        description: | # this will include new lines to allow paragraphs
+          I joined StarTech after CompareAsiaGroup (the parent company) scored $40M Series A led by Goldman Sachs and before it was renamed to CompareGlobalGroup. As one of the most significant investments of Nova Founders, CompareGlobal's mission is to help consumers compare all types of products ranging from personal loans to broadbands. My job at StarTech started with maintaining a system built on top of Backbone(Marionette)/Laravel which was quite a challenge due to the bloated codebase and an overly complex architecture in both code and infrastructure. The second week at work, I started to think about and implement a much more concise design based on Angular, with simplicity, maintainability and reusability in mind. It turned out to be the core library of the frontend of our latest comparison engine. All directives (and their controllers), filters, services are unit tested using Karma, PhantomJS and Jasmine. With this testability, the library is continuously integrated and improved.
+
+          Major responsibilities:
+          - Develop simple, maintainable, reusable full-stack solutions
+          - Help junior developers on both code quality and design patterns
+          - Help making technical decisions on integrating multiple systems
+          - Maintain the Widget Creation Platform
+          - Technical screening on new recruitments
+          - Make overall technical decisions
+
+          Projects I worked on:
+          - Data Integrity
+          - Malaysia Credit Card / Personal Loan
+          - Country in a Box
+          - Widget Creation Platform
+
+          Technologies involved: Node.js / CoffeeScript / Docker / Docker Compose / AWS Beanstalk / AWS S3 / Git / Jenkins / Brunch / Gulp / Angularjs / Karma / Jasmine / Sass / Jade / Grails / PHP / Symfony / Angular / Ant
 
       - layout: left
         title: AXA
@@ -128,9 +163,21 @@ content:
         # link_text: boringcompany.com
         sub_title: Full Stack Development Lead
         caption: Sep 2014 - Aug 2015
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Leading a team of developers working on AXA's strategic digital transformation solutions making traditional insurance products more accessible to customers.
+        description: | # this will include new lines to allow paragraphs
+          This was where I got to know more about insurance products and how simple digital solutions can revolutionize an industry centuries old. This is also a unique point of view that reveals the potentials of a digital revolution in the making in the world of finance. Technologies never exist just for the sake of themselves. It's always the business requirements that are driving behind. Using cutting-edge technologies to build modern mobile-first responsive digital presences, introducing automated workflows that shortens development TAT and amazing colleagues with the final results is really a one-of-a-kind experience.
+
+          Major responsibilities:
+          - Consultancy: Provide solid technical solutions to complicated business problems
+          - Architecture: Carefully design the services and components that make up complex systems
+          - Implementation: Actually code, test, deploy the solutions
+
+          Projects I worked on:
+          - Facebook Page Generation Engine for AXA Agents ( One click and a full-fledged AXA Agent FB page is generated with AXA Store added as tab app )
+          - wapX ( A system that enables AXA to embed online insurance purchase flows into axa's own range of websites, partners' websites, facebook apps, and virtually anywhere )
+
+          Technologies involved: Node.js / MongoDB / CoffeeScript / PhantomJS / Vim / Golang / Docker / Fig / Heroku / GoogleCloud / Git / StrongLoop / Hapi / Harp / Brunch / Angularjs / Sass / Stylus / Jade / Cordova / Ionic / Python / Kubernetes
 
       - layout: left
         title: Maaii
@@ -138,9 +185,19 @@ content:
         # link_text: boringcompany.com
         sub_title: Head of Web Development
         caption: Mar 2012 - Aug 2014
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Building the customer facing portal for Maaii (Now Cinnox), helping customers find, use and enjoy Maaii's offerings.
+        description: | # this will include new lines to allow paragraphs
+          Maaii was a precious experience in which I was given the time to get to know quite a few disruptive edge-cutting technologies that are changing the world right now. The Maaii app itself has gone through a tough journey to make its way here today. As a web developer I witnessed and was part of this process, and learned exactly what it takes to build a successful software product.
+
+          Projects I worked on:
+          - Maaii Website
+          - Maaii Datagraph Site
+          - Maaii Mass Messaging Systems
+          - M800 Portal Website
+          - Various other projects
+
+          Technologies involved: Node.js / MongoDB / Git / Gerrit / Jenkins / NightwatchJS / PhantomJS / CasperJS / Mocha / Sublime / Karma / WebDriver / Wordpress / MySQL / PHP
 
       - layout: left
         title: IBM
@@ -148,9 +205,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Web Production Lead
         caption: Jul 2010 - Feb 2012
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Creating innovations and solutions for reliable delivery of IBM's clients' online presence.
+        description: | # this will include new lines to allow paragraphs
+          Web Production Lead (WPL) is the contact point through which client requests are forwarded and processed. As a WPL I went above and beyond my job responsibilities in client servicing, discovering the need of enhancement in daily work processes, implementing solutions by inventing tools and plugins, and documenting the innovations for further usage and maintenance. Via these I also acquired “Six Sigma” Green Belt Certificate.
+
+          Technologies involved: Dojo / Dijit / GreaseMonkey / IEPro / PHP / MySQL / jQuery / ECM / XML / XSLT / Dojo / Dijit / Java / Eclipse / ADT / Ant / GreaseMonkey / IEPro / PHP / MySQL / jQuery
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -258,14 +318,14 @@ content:
 
   - title: On Innovation
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Most organizations / teams tend to confuse innovation with technology, thinking technology means innovation. The more advanced technologies you use, the better you can innovate. And that's why a lot of teams focus their attention on technology. But is that the right thing to do?
 
       IMHO, innovations are often realized through technological means, which means technology is only the means to the end. Innovation should be based on real life needs. Those tangible needs are the source of inspiration for innovations. Innovation should be led and driven by those needs. If we're able to solve real world problems in creative and effective ways, then it doesn't really matter how much technology is involved.
 
   - title: On Incentive Management
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       In a factory operated 100% by machines, you feed them electricity and they work. How much they work depends on how much electricity is fed. But if we treat humans as machine-like resources (I guess that's why we use the term "human resource"), using money (like electricity) as the sole means to drive them, then we'd be missing a lot of potential efficiency and loyalty. I believe this "factory mindset" is exactly the primary culprit behind so many teams' low morale and high attrition rate. If managing humans is as easy as managing machines, then why do we need managers at all?
 
       Innovation, for example, is one such area where more money doesn't necessarily mean more productivity. You can't say "I'll pay you X amount of money and please give me Y number of innovations by date Z". Apart from "problem / need discovery ability" mentioned above, another important moving factor here is <mark>incentive</mark>. Are your people willing to innovate? Do they feel safe to innovate? Why not?
@@ -273,6 +333,24 @@ content:
       How about sharing? Are your developers willing to offer help to rest of the team? Do they have a collective success / failure mindset?
 
       How about morale? Do your developers offer to do what's above and beyond what they're assigned to? Are they willing to take on more responsibilities than described in the JD? Are they speaking their minds during work?
+
+  - title: On Agile
+    layout: text
+    content: |
+      Agile is the de facto most widely used software development methodology. But not all teams are making good use of it. I've been in both bad and good agile teams. Bad teams use daily standups to gather progress information, thinking Agile is a way to magically make things go faster. The most frequently asked question in a bad Agile team is "What's the ETA?". In a good Agile team, the scrum master never asks this question because s/he knows the answers better than anyone else. A bad scrum master doesn't know exactly what developers are working on, but his / her job is full of certainty - kick people so they deliver. A good scrum master's daily routines are filled with uncertainty. Things could deviate from plans. Better, more efficient solutions might be discovered as the team progresses. And that's the gist of Agile - proceed, review, incrementally and continuously improve.
+
+  - title: On Process
+    layout: text
+    content: |
+      Messenger's world's favorite guy to murder. When things go right, it's thanks to the managers. When things go wrong, messengers are first to blame. And because we never run out of innocent messengers, we never learn to discover the flaws in our processes. I found 99% of the time when things go wrong, it's due to process. Lack of guidelines, resources, culture for instance all contribute to failures. If a process has flaws in it, then however many messengers we swap, failure is the fate. We sometimes do get a few decent messengers who are able to make up for the flaws, but we shouldn't take it for granted. We should actively seek to spot and fix the flaws in process instead of relying on individuals. Otherwise we put team / project's sustainability at risk.
+
+  #- title: On Performance Management
+    #layout: text
+    #content: |
+
+  #- title: On Future of Work
+    #layout: text
+    #content: |
 
 # Footer
 footer_show_references: true
