@@ -22,7 +22,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: githistory
+linkedin_username: github
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -342,7 +342,17 @@ content:
   - title: On Process
     layout: text
     content: |
-      Messenger's world's favorite guy to murder. When things go right, it's thanks to the managers. When things go wrong, messengers are first to blame. And because we never run out of innocent messengers, we never learn to discover the flaws in our processes. I found 99% of the time when things go wrong, it's due to process. Lack of guidelines, resources, culture for instance all contribute to failures. If a process has flaws in it, then however many messengers we swap, failure is the fate. We sometimes do get a few decent messengers who are able to make up for the flaws, but we shouldn't take it for granted. We should actively seek to spot and fix the flaws in process instead of relying on individuals. Otherwise we put team / project's sustainability at risk.
+      Messenger is world's favorite guy to murder. When things go right, it's thanks to the managers. When things go wrong, messengers are first to blame. And because we never run out of innocent messengers, we never learn to discover the flaws in our processes. I found 99% of the time when things go wrong, it's due to process. Lack of guidelines, resources, culture for instance all contribute to failures. If a process has flaws in it, then however many messengers we swap, failure is the fate. We sometimes do get a few decent messengers who are able to make up for the flaws, but we shouldn't take it for granted. We should actively seek to spot and fix the flaws in our processes instead of relying on individuals. Otherwise we put team / project's sustainability at risk.
+
+  - title: On Feedback Management
+    layout: text
+    content: |
+      Feedback is one of the most important incentives employees receive. Positive feedbacks give them incentives to do more of the good stuff while negative ones do the opposite. Receiving no feedback means the employees are blindfolded, guessing their way out, and good luck with that.
+
+      A performance review session, for example, is essentially a set of feedbacks given to an employee. It's therefore crucial to keep those feedbacks whole and fair. That is, we shouldn't miss out on or distort them. Otherwise we create wrong incentives for employees to follow.
+
+
+
 
   #- title: On Performance Management
     #layout: text
