@@ -264,10 +264,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Knowledge
-        - options
-        - futures
-        - equity derivatives
         - FX
+        - Options
+        - Futures
+        - Equity Derivatives
+        - Structured Products
 
       - Tools
         - git / svn / cvs
@@ -294,25 +295,30 @@ content:
         - scrapy / cheerio / iconv(-lite)
         - mongodb / mysql / redis / cayley
         - phonegap / ionic
+        - spring / springboot
 
       - Programming Languages
+        - Assembly
+        - C
+        - C++
         - CoffeeScript
-        - JavaScript
+        - CSS
+        - Go
+        - Groovy
         - HTML
         - Jade
-        - CSS
-        - SASS / SCSS
-        - Python
+        - Java
+        - JavaScript
         - PHP
-        - Go
+        - Python
+        - SASS / SCSS
+        - Scala
+        - TypeScript
         - VB(A)
-        - C++
-        - C
-        - Assembly
 
       - Patterns & Standards
         - RESTful API (CRUD operations)
-        - Dependency Injection
+        - Dependency Injection / IoC
         - Micro Service Architecture
         - Unit / Integration / E2E Testing
 
@@ -367,14 +373,20 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: Innovators' Delemma
+        quote: >
+          My thoughts on leveraging incentives using innovation as an example
         link: https://will-hk.github.io/innovators-dilemma
-        link_text: Innovators' Dilemma
       - layout: top-middle
+        title: Inclusive Peer Review
+        quote: >
+          My thoughts on collaboration and co-improvement
         link: https://will-hk.github.io/inclusive-peer-review
-        link_text: Inclusive Peer Review
       - layout: top-middle
+        title: Write Less, Do More
+        quote: >
+          My thoughts on code reuse, devX and efficiency
         link: https://will-hk.github.io/write-less-do-more
-        link_text: Write Less, Do More
 
   #- title: On Performance Management
     #layout: text
@@ -396,4 +408,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
