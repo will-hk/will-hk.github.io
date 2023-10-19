@@ -93,22 +93,25 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: HSBC
         link: hsbc.com
         # link_text: boringcompany.com
         sub_title: Senior Software Development Manager, Structured Products
         caption: Sep 2018 - Present
         quote: >
-          Designing, developing and delivering the next-gen high performance OMS for HSBC's structured products line of offerings using proprietary as well as open-source software.
+          Designing, developing and delivering the next-gen high performance OMS and LCM systems for HSBC's structured products line of offerings leveraging both proprietary and open-source software. 
         description: | # this will include new lines to allow paragraphs
-          A challenging yet fruitful experience with the EQD division of GB&M where I worked on the OMS for structured products. The system uses Scala on the backend and React on the frontend. One of the highlights of this system is an in-house developed canvas implementation of a full-fledged grid system capable of rendering hundreds of thousands of rows of data with lightning fast speed thanks to immediate mode rendering. When I arrived, the team was struggling to find a solution for users to be able to open email clients with dynamically added attachments. Since the application is electron based, I was able to think out of the box and add a feature that allows the user to open Outlook client with Termsheets attached right from an RFQ within the application. I worked on various other features that contributed towards a successful launch of the product later on. I worked on majority of the project and see it as my brain child.
+          A challenging yet fruitful experience with the EQD division of GB&M where I contributed to all stages of projects including requirement gathering, brainstorming, implementation, PR review, CI/CD, change management, workflow optimization, production support.
           
-          Another major project I worked on also has my DNA in it - The Structured Product Lifecycle Management System. It serves as the "brain" behind reliable and automated position scoping, event generation, trade booking and position closing. Throughout the development of the project, I've been an inspirer who
+          One of the projects is an OMS for structured products. The system uses Scala on the backend and React on the frontend. It sources RFQs from various sources and displays them in a unified UI for front office users, including sales, traders, quants, structurers. It's used to manage the workflow states of the RFQs and is used as a golden source throughout the lifecycle of every order. It boasts high performance rendering thanks to an in-house developed canvas implementation of a full-fledged grid system capable of rendering hundreds of thousands of rows of data with lightning fast speed leveraging immediate mode rendering. As a crucial member of the team, I came up with innovative ideas and solid implementations which contributed towards a successful launch of the product later on. I worked on majority of the project and see it as my brain child.
+          
+          Another major project I worked on also has my DNA in it - the Structured Product Lifecycle Management System. It serves as the "brain" behind reliable and automated position scoping, event generation, trade booking and position closing. Throughout the development of the project, I've been an inspirer who
           - writes clean and maintainable code
           - reviews peers' code, raising constructive improvement suggestions
           - advocates best practices
           - showcases smarter way of doing things
+          - showcases how developers could tap deep into functional aspects of the project leveraging domain knowledge
           - contributes innovative ideas to brainstorming sessions
           - applies innovation to solving real-world problems
           - helps improve and automate DevSecOps process, and reduce friction in Change Management
@@ -117,7 +120,7 @@ content:
 
           Technologies involved: Springboot / Java / Micrometer / Prometheus / Grafana / Jenkins / Groovy / Nodejs / React / Jest / ES6 / Typescript / Electron / Scala / Webpack / VS Code / Intellij IDEA / SASS / Stylus / WebSocket / Jenkins / Maven / Springboot / Stash / Jira / Confluence / Git / Bash / VIM
 
-      - layout: left
+      - layout: top
         title: HSBC
         link: hsbc.com
         # link_text: boringcompany.com
@@ -142,7 +145,7 @@ content:
 
           Technologies involved: Nodejs / CoffeeScript / Java / Git / Gulp / Angularjs / Karma / Protractor / TeamCity / Stash / Jira / Confluence / RxJS / Cygwin / VIM / AppRunner / Intellij IDEA / Maven
 
-      - layout: left
+      - layout: top
         title: Compare Global Group
         link: moneyhero.com
         # link_text: boringcompany.com
@@ -169,7 +172,7 @@ content:
 
           Technologies involved: Node.js / CoffeeScript / Docker / Docker Compose / AWS Beanstalk / AWS S3 / Git / Jenkins / Brunch / Gulp / Angularjs / Karma / Jasmine / Sass / Jade / Grails / PHP / Symfony / Angular / Ant
 
-      - layout: left
+      - layout: top
         title: AXA
         link: axa.com
         # link_text: boringcompany.com
@@ -191,7 +194,7 @@ content:
 
           Technologies involved: Node.js / MongoDB / CoffeeScript / PhantomJS / Vim / Golang / Docker / Fig / Heroku / GoogleCloud / Git / StrongLoop / Hapi / Harp / Brunch / Angularjs / Sass / Stylus / Jade / Cordova / Ionic / Python / Kubernetes
 
-      - layout: left
+      - layout: top
         title: Maaii
         link: maaiiconnect.com
         # link_text: boringcompany.com
@@ -211,7 +214,7 @@ content:
 
           Technologies involved: Node.js / MongoDB / Git / Gerrit / Jenkins / NightwatchJS / PhantomJS / CasperJS / Mocha / Sublime / Karma / WebDriver / Wordpress / MySQL / PHP
 
-      - layout: left
+      - layout: top
         title: IBM
         link: ibm.com
         # link_text: boringcompany.com
