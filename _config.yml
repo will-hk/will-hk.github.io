@@ -376,15 +376,20 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Innovators' Delemma
+        title: Back Pressure
         quote: >
-          My thoughts on leveraging incentives using innovation as an example
-        link: https://will-hk.github.io/innovators-dilemma
+          My thoughts on running a Scrum pod
+        link: https://will-hk.github.io/back-pressure
       - layout: top-middle
         title: Inclusive Peer Review
         quote: >
           My thoughts on collaboration and co-improvement
         link: https://will-hk.github.io/inclusive-peer-review
+      - layout: top-middle
+        title: Innovators' Delemma
+        quote: >
+          My thoughts on leveraging incentives using innovation as an example
+        link: https://will-hk.github.io/innovators-dilemma
       - layout: top-middle
         title: Write Less, Do More
         quote: >
