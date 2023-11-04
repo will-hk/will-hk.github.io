@@ -391,6 +391,11 @@ content:
           My thoughts on leveraging incentives using innovation as an example
         link: https://will-hk.github.io/innovators-dilemma
       - layout: top-middle
+        title: Think out of the Box
+        quote: >
+          My thoughts on thinking twice before coding
+        link: https://will-hk.github.io/think-out-of-the-box
+      - layout: top-middle
         title: Write Less, Do More
         quote: >
           My thoughts on code reuse, devX and efficiency
