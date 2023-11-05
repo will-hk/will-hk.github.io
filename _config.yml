@@ -110,15 +110,15 @@ content:
           - writes clean and maintainable code
           - reviews peers' code, raising constructive improvement suggestions
           - advocates best practices
+          - advocates devX and productivity
           - showcases smarter way of doing things
           - showcases how developers could tap deep into functional aspects of the project leveraging domain knowledge
           - contributes innovative ideas to brainstorming sessions
           - applies innovation to solving real-world problems
           - helps improve and automate DevSecOps process, and reduce friction in Change Management
           - helps improve transparency and trust among teams via regular presentation in demo sessions
-          - makes developers happier and more productive.
 
-          Technologies involved: Springboot / Java / Micrometer / Prometheus / Grafana / Jenkins / Groovy / Nodejs / React / Jest / ES6 / Typescript / Electron / Scala / Webpack / VS Code / Intellij IDEA / SASS / Stylus / WebSocket / Jenkins / Maven / Springboot / Stash / Jira / Confluence / Git / Bash / VIM
+          Technologies involved: Springboot / Java / Micrometer / Prometheus / Grafana / Jenkins / Groovy / Nodejs / React / Jest / ES6 / Typescript / Electron / Scala / Webpack / VS Code / Intellij IDEA / SASS / Stylus / WebSocket / Jenkins / Maven / Stash / Jira / Confluence / Git / Bash / VIM
 
       - layout: top
         title: HSBC
