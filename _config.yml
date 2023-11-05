@@ -109,9 +109,11 @@ content:
           Another major project I worked on also has my DNA in it - the Structured Product Lifecycle Management System. It serves as the "brain" behind reliable and automated position scoping, event generation, trade booking and position closing. Throughout the development of the project, I've been an inspirer who
           - writes clean and maintainable code
           - reviews peers' code, raising constructive improvement suggestions
+          - advocates against reinventing the wheel
           - advocates best practices
           - advocates devX and productivity
           - showcases smarter way of doing things
+          - showcases how to correctly write unit tests
           - showcases how developers could tap deep into functional aspects of the project leveraging domain knowledge
           - contributes innovative ideas to brainstorming sessions
           - applies innovation to solving real-world problems
