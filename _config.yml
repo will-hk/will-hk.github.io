@@ -229,6 +229,31 @@ content:
 
           Technologies involved: Dojo / Dijit / GreaseMonkey / IEPro / PHP / MySQL / jQuery / ECM / XML / XSLT / Dojo / Dijit / Java / Eclipse / ADT / Ant / GreaseMonkey / IEPro / PHP / MySQL / jQuery
 
+      - layout: top
+        title: Allyes AdNetwork
+        link: allyes.com
+        # link_text: boringcompany.com
+        sub_title: Senior Strategic Planner
+        caption: Jul 2009 - Jun 2010
+        quote: >
+          Data crunching / ROI analysis / Media negotiation
+        description: | # this will include new lines to allow paragraphs
+          At Allyes, I help clients
+          - source online media that best suit their growth needs
+          - design their online presence, making them look their best
+          - measure the results
+
+      - layout: top
+        title: Mindshare
+        link: mindshare.com
+        # link_text: boringcompany.com
+        sub_title: Strategic Planner
+        caption: Jul 2007 - Jul 2008
+        quote: >
+          Data crunching / ROI analysis / Client presentation
+        description: | # this will include new lines to allow paragraphs
+          As a strategic planner @ Mindshare, I help constantly monitor the results of media exposure for clients, making sure ROI targets are achieved.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
