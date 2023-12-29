@@ -54,9 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   - Unique ability to <mark>empathize and synergize</mark> with developers
   - Profound understanding of developer needs, what makes them tick, and what makes great dev teams
   - Profound understanding of (perverse) <mark>incentive management</mark>
-  - Profound knowledge in distributed ledger technologies and <mark>decentralized finance</mark>
+  - Extensive knowledge in distributed ledger technologies and <mark>decentralized finance</mark>
   - Years of knowledge in <mark>finance</mark> including insurance, FX, options, futures, structured products, etc.
-  - Years of experience in design and development of <mark>large-scale, complex financial systems</mark>
+  - Years of experience in design and development of <mark>large-scale, sophisticated financial systems</mark>
   - Years of <mark>innovation</mark> turning technology into solutions that solve real world problems
   - Deep involvement in full <mark>SDLC</mark> including
     - Requirement gathering
@@ -413,7 +413,7 @@ content:
           My thoughts on collaboration and co-improvement
         link: https://will-hk.github.io/inclusive-peer-review
       - layout: top-middle
-        title: Innovators' Delemma
+        title: Innovators' Dilemma
         quote: >
           My thoughts on leveraging incentives using innovation as an example
         link: https://will-hk.github.io/innovators-dilemma
