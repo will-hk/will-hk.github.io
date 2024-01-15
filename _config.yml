@@ -59,15 +59,15 @@ about_content: | # this will include new lines to allow paragraphs
   - Years of experience in design and development of <mark>large-scale, sophisticated financial systems</mark>
   - Years of <mark>innovation</mark> turning technology into solutions that solve real world problems
   - Deep involvement in full <mark>SDLC</mark> including
-    - Requirement gathering
+    - Requirement analysis
     - Counter proposal
     - Solution design
-    - Work analysis / distribution
     - Implementation
     - Code review
-    - Testing
+    - Automated testing
+    - DevSecOps
     - Change management
-    - Production support
+    - Production support / troubleshooting
     - Feedback management
 
 content:
