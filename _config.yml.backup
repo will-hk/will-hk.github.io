@@ -48,14 +48,14 @@ linkedin_username: github
 # about_title: About Me
 #about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  - Extensive knowledge in <mark>finance products</mark> including insurance, FX, options, futures, structured products, etc.
-  - Extensive knowledge in <mark>decentralized finance</mark> and distributed ledger technologies
   - Over a decade of experience turning ideas into reality via <mark>technology</mark>
   - Years of experience <mark>leading development teams</mark>
-  - Unique understanding of what <mark>Agile Methodology</mark> is and more importantly, what it is not
-  - Unique ability to <mark>empathize and synergize</mark> with technologists
+  - Unique understanding of what <mark>agile</mark> is and more importantly, what it is not
+  - Unique ability to <mark>empathize and synergize</mark> with developers
   - Profound understanding of developer needs, what makes them tick, and what makes great dev teams
   - Profound understanding of (perverse) <mark>incentive management</mark>
+  - Extensive knowledge in distributed ledger technologies and <mark>decentralized finance</mark>
+  - Years of knowledge in <mark>finance</mark> including insurance, FX, options, futures, structured products, etc.
   - Years of experience in design and development of <mark>large-scale, sophisticated financial systems</mark>
   - Years of <mark>innovation</mark> turning technology into solutions that solve real world problems
   - Deep involvement in full <mark>SDLC</mark> including
@@ -102,18 +102,25 @@ content:
         quote: >
           Designing, developing and delivering the next-gen high performance OMS and LCM systems for HSBC's structured products line of offerings leveraging both proprietary and open-source software. 
         description: | # this will include new lines to allow paragraphs
-          - Inspiring the team to write clean and maintainable code
-          - Reviewing code, raising constructive improvement suggestions
-          - Advocating against reinventing the wheel
-          - Advocating best practices
-          - Advocating devX and productivity
-          - Showcasing smarter way of doing things
-          - Showcasing how to correctly write unit tests
-          - Showcasing how developers could tap deep into functional aspects of the project leveraging domain knowledge
-          - Contributing innovative ideas to brainstorming sessions
-          - Applying innovation to solving real-world problems
-          - Helping improve and automate DevSecOps process, and reduce friction in Change Management
-          - Helping improve transparency and trust among teams via regular presentation in demo sessions
+          A challenging yet fruitful experience with the EQD division of GB&M where I contributed to all stages of projects including requirement gathering, brainstorming, implementation, PR review, CI/CD, change management, workflow optimization, production support.
+          
+          One of the projects is an OMS for structured products. The system uses Scala on the backend and React on the frontend. It sources RFQs from various sources and displays them in a unified UI for front office users, including sales, traders, quants, structurers. It's used to manage the workflow states of the RFQs and is used as a golden source throughout the lifecycle of every order. It boasts high performance rendering thanks to an in-house developed canvas implementation of a full-fledged grid system capable of rendering hundreds of thousands of rows of data with lightning fast speed leveraging immediate mode rendering. As a crucial member of the team, I came up with innovative ideas and solid implementations which contributed towards a successful launch of the product later on. I worked on majority of the project and see it as my brain child.
+          
+          Another major project I worked on also has my DNA in it - the Structured Product Lifecycle Management System. It serves as the "brain" behind reliable and automated position scoping, event generation, trade booking and position closing. Throughout the development of the project, I've been an inspirer who
+          - writes clean and maintainable code
+          - reviews peers' code, raising constructive improvement suggestions
+          - advocates against reinventing the wheel
+          - advocates best practices
+          - advocates devX and productivity
+          - showcases smarter way of doing things
+          - showcases how to correctly write unit tests
+          - showcases how developers could tap deep into functional aspects of the project leveraging domain knowledge
+          - contributes innovative ideas to brainstorming sessions
+          - applies innovation to solving real-world problems
+          - helps improve and automate DevSecOps process, and reduce friction in Change Management
+          - helps improve transparency and trust among teams via regular presentation in demo sessions
+
+          Technologies involved: Springboot / Java / Micrometer / Prometheus / Grafana / Jenkins / Groovy / Nodejs / React / Jest / ES6 / Typescript / Electron / Scala / Webpack / VS Code / Intellij IDEA / SASS / Stylus / WebSocket / Jenkins / Maven / Stash / Jira / Confluence / Git / Bash / VIM
 
       - layout: top
         title: HSBC
@@ -124,15 +131,21 @@ content:
         quote: >
           Implementation and support of the FX trading frontend utilizing the then cutting-edge technologies.
         description: | # this will include new lines to allow paragraphs
-          - Conducting user requirement analysis
-          - Implementing FX trading system
-          - Innovating around support technologies
-          - Supporting and troubleshooting production
+          I joined Cash FX division of HSBC Global Banking and Markets line of business in May 2016. Since then I've worked on a number of projects and innovations. I've also acquired the knowledge and skills required to serve as a competent developer of Cash FX trading systems that support Spot, Forward, Swap, NDF, NDS products.
 
-          Innovations include:
+          Projects:
+          - Reason Code
+          - Credit on Tiles
+          - Execution App
+          - Ironman
+          - FXConnect
+
+          Innovations:
           - Antman - A web-based zoomable treemap of all service instances running within our infrastructure. This tool is quite versatile. For example, it provides also a grid (table) view of the instances, and connects to source control APIs to retrieve collaborator info of specific services, as well as to Jira APIs to submit and retrieve service-related issues. It runs real-time, reflecting instance statuses as they go up or down.
           - Grasshopper - A web-based SSH client that's capable of connecting users to specific hosts programatically, which enables it to work very well with the first tool. Users will basically be able to click on a button in Antman, and get into an ssh cli in the browser and land in the directory of the exact service he was inspecting in Antman, eliminating the need to open Putty or mRemote.
           - Documentary - An API documentation aggregation server which exposes a web interface where a list of the aggregated documentations are displayed. Clicking one of the items opens up swagger UI in an iframe beneath the list that displays an interactive API documentation of that item (service).
+
+          Technologies involved: Nodejs / CoffeeScript / Java / Git / Gulp / Angularjs / Karma / Protractor / TeamCity / Stash / Jira / Confluence / RxJS / Cygwin / VIM / AppRunner / Intellij IDEA / Maven
 
       - layout: top
         title: Compare Global Group
@@ -143,12 +156,23 @@ content:
         quote: >
           Leading a team of developers working on CGG's financial / subcription product comparison line of business, helping consumers get the most of what's on offer by the banks / insurance firms / ISPs, etc.
         description: | # this will include new lines to allow paragraphs
-          - Developing simple, maintainable, reusable full-stack solutions
-          - Helping junior developers on both code quality and design patterns
-          - Helping making technical decisions on integrating multiple systems
-          - Maintaining the Widget Creation Platform
+          I joined StarTech after CompareAsiaGroup (the parent company) scored $40M Series A led by Goldman Sachs and before it was renamed to CompareGlobalGroup. As one of the most significant investments of Nova Founders, CompareGlobal's mission is to help consumers compare all types of products ranging from personal loans to broadbands. My job at StarTech started with maintaining a system built on top of Backbone(Marionette)/Laravel which was quite a challenge due to the bloated codebase and an overly complex architecture in both code and infrastructure. The second week at work, I started to think about and implement a much more concise design based on Angular, with simplicity, maintainability and reusability in mind. It turned out to be the core library of the frontend of our latest comparison engine. All directives (and their controllers), filters, services are unit tested using Karma, PhantomJS and Jasmine. With this testability, the library is continuously integrated and improved.
+
+          Major responsibilities:
+          - Develop simple, maintainable, reusable full-stack solutions
+          - Help junior developers on both code quality and design patterns
+          - Help making technical decisions on integrating multiple systems
+          - Maintain the Widget Creation Platform
           - Technical screening on new recruitments
-          - Making overall technical decisions
+          - Make overall technical decisions
+
+          Projects I worked on:
+          - Data Integrity
+          - Malaysia Credit Card / Personal Loan
+          - Country in a Box
+          - Widget Creation Platform
+
+          Technologies involved: Node.js / CoffeeScript / Docker / Docker Compose / AWS Beanstalk / AWS S3 / Git / Jenkins / Brunch / Gulp / Angularjs / Karma / Jasmine / Sass / Jade / Grails / PHP / Symfony / Angular / Ant
 
       - layout: top
         title: AXA
@@ -159,9 +183,18 @@ content:
         quote: >
           Leading a team of developers working on AXA's strategic digital transformation solutions making traditional insurance products more accessible to customers.
         description: | # this will include new lines to allow paragraphs
+          This was where I got to know more about insurance products and how simple digital solutions can revolutionize an industry centuries old. This is also a unique point of view that reveals the potentials of a digital revolution in the making in the world of finance. Technologies never exist just for the sake of themselves. It's always the business requirements that are driving behind. Using cutting-edge technologies to build modern mobile-first responsive digital presences, introducing automated workflows that shortens development TAT and amazing colleagues with the final results is really a one-of-a-kind experience.
+
+          Major responsibilities:
           - Consultancy: Provide solid technical solutions to complicated business problems
           - Architecture: Carefully design the services and components that make up complex systems
           - Implementation: Actually code, test, deploy the solutions
+
+          Projects I worked on:
+          - Facebook Page Generation Engine for AXA Agents ( One click and a full-fledged AXA Agent FB page is generated with AXA Store added as tab app )
+          - wapX ( A system that enables AXA to embed online insurance purchase flows into axa's own range of websites, partners' websites, facebook apps, and virtually anywhere )
+
+          Technologies involved: Node.js / MongoDB / CoffeeScript / PhantomJS / Vim / Golang / Docker / Fig / Heroku / GoogleCloud / Git / StrongLoop / Hapi / Harp / Brunch / Angularjs / Sass / Stylus / Jade / Cordova / Ionic / Python / Kubernetes
 
       - layout: top
         title: Maaii
@@ -172,11 +205,16 @@ content:
         quote: >
           Building the customer facing portal for Maaii (Now Cinnox), helping customers find, use and enjoy Maaii's offerings.
         description: | # this will include new lines to allow paragraphs
+          Maaii was a precious experience in which I was given the time to get to know quite a few disruptive edge-cutting technologies that are changing the world right now. The Maaii app itself has gone through a tough journey to make its way here today. As a web developer I witnessed and was part of this process, and learned exactly what it takes to build a successful software product.
+
+          Projects I worked on:
           - Maaii Website
           - Maaii Datagraph Site
           - Maaii Mass Messaging Systems
           - M800 Portal Website
           - Various other projects
+
+          Technologies involved: Node.js / MongoDB / Git / Gerrit / Jenkins / NightwatchJS / PhantomJS / CasperJS / Mocha / Sublime / Karma / WebDriver / Wordpress / MySQL / PHP
 
       - layout: top
         title: IBM
@@ -187,9 +225,9 @@ content:
         quote: >
           Creating innovations and solutions for reliable delivery of IBM's clients' online presence.
         description: | # this will include new lines to allow paragraphs
-          - Innovation through technology
-          - Client servicing
-          - Production delivery
+          Web Production Lead (WPL) is the contact point through which client requests are forwarded and processed. As a WPL I went above and beyond my job responsibilities in client servicing, discovering the need of enhancement in daily work processes, implementing solutions by inventing tools and plugins, and documenting the innovations for further usage and maintenance. Via these I also acquired “Six Sigma” Green Belt Certificate.
+
+          Technologies involved: Dojo / Dijit / GreaseMonkey / IEPro / PHP / MySQL / jQuery / ECM / XML / XSLT / Dojo / Dijit / Java / Eclipse / ADT / Ant / GreaseMonkey / IEPro / PHP / MySQL / jQuery
 
       - layout: top
         title: Allyes AdNetwork
@@ -200,10 +238,10 @@ content:
         quote: >
           Data crunching / ROI analysis / Media negotiation
         description: | # this will include new lines to allow paragraphs
-          - Sourcing online media resources
-          - Designing clients' online presence
-          - Measuring advertising results
-          - Managing vendors
+          At Allyes, I help clients
+          - source online media that best suit their growth needs
+          - design their online presence, making them look their best
+          - measure the results
 
       - layout: top
         title: Mindshare
@@ -214,10 +252,7 @@ content:
         quote: >
           Data crunching / ROI analysis / Client presentation
         description: | # this will include new lines to allow paragraphs
-          - Picking media channels
-          - Measuring advertising results
-          - Ensuring ROI targets
-          - Managing clients' expectations
+          As a strategic planner @ Mindshare, I help constantly monitor the results of media exposure for clients, making sure ROI targets are achieved.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
