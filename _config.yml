@@ -48,7 +48,7 @@ linkedin_username: github
 # about_title: About Me
 #about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  - Extensive knowledge in <mark>finance products</mark> including insurance, FX, options, futures, structured products, etc.
+  - Extensive knowledge in <mark>derivatives</mark> including options, warrants, CBBCs, futures, structured products, etc.
   - Extensive knowledge in <mark>decentralized finance</mark> and distributed ledger technologies
   - Over a decade of experience turning ideas into reality via <mark>technology</mark>
   - Years of experience <mark>leading development teams</mark>
@@ -102,6 +102,7 @@ content:
         quote: >
           Designing, developing and delivering the next-gen high performance OMS and LCM systems for HSBC's structured products line of offerings leveraging both proprietary and open-source software. 
         description: | # this will include new lines to allow paragraphs
+          - Facilitating application development lifecycle
           - Inspiring the team to write clean and maintainable code
           - Reviewing code, raising constructive improvement suggestions
           - Advocating against reinventing the wheel
