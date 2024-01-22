@@ -276,6 +276,7 @@ content:
         - plantuml
 
       - Technologies
+        - React / Next.js
         - Angular / Polymer / Custome Elements
         - GraphQL / JWT / PWA
         - angularjs / ember / backbone
